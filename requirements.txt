@@ -1,0 +1,5 @@
+argparse
+requests
+python-dotenv
+pandas
+tqdm
