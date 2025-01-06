@@ -1,0 +1,1 @@
+Á¶¼ºÀç : {'result_code': '1', 'message': 'success', 'error_cnt': 1, 'msg_id': '964811580', 'success_cnt': 1, 'msg_type': 'MMS'}
