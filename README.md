@@ -1,5 +1,5 @@
 
-# E-Wool 대량문자 전송 스크립트
+# 이울진료회 대량문자 전송 스크립트
 
 <p align="center">
     <img src="ewoollogo.png" alt="E-Wool Logo" />
@@ -61,7 +61,7 @@ python script.py --excel <엑셀 파일 경로> --image <이미지 파일 경로
 
 ### 예제
 ```bash
-python script.py --excel ewool_address.xlsx --image image.jpg --msg "새해 복 많이 받으세요^^" --title "이울진료회 폐쇄 알림"
+python script.py --excel ewool_address.xlsx --image image.jpg --msg "(공지 내용)" --title "이울진료회 공지"
 ```
 
 ## 4. 코드 설명
